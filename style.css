@@ -1,0 +1,110 @@
+    body {
+        background: url(images/background.jpeg) no-repeat center center fixed;
+        background-size: cover;
+        font-family: sans-serif;
+    }
+    
+    header {
+        width: 80%;
+        margin: auto;
+        overflow: hidden;
+    }
+    
+    .head {
+        float: left;
+        color: #fff;
+        font-family: cursive;
+        font-weight: bolder;
+        margin-top: 1rem;
+    }
+    
+    .nav {
+        float: right;
+    }
+    
+    ul {
+        float: right;
+    }
+    
+    li {
+        display: inline;
+        padding: 1rem;
+    }
+    
+    li a {
+        color: #fff;
+        text-decoration: none;
+        font-weight: bold;
+    }
+    
+    li a:visited {
+        color: #fff;
+    }
+    
+    li a:active {
+        color: red;
+    }
+    
+    li a:hover {
+        color: orangered;
+    }
+    
+    .container {
+        width: 70%;
+        margin: auto;
+        overflow: hidden;
+        margin-top: 1%;
+    }
+    
+    showcase h1 {
+        color: rgb(30, 236, 30);
+        font-family: cursive;
+        text-align: center;
+    }
+    
+    showcase h3 {
+        color: #fff;
+        text-align: center;
+        letter-spacing: 2px;
+        font-weight: bolder;
+    }
+    
+    .category {
+        color: #fff;
+        margin-top: 5%;
+        display: flex;
+        text-align: center;
+        font-family: cursive;
+        font-weight: bolder;
+    }
+    
+    div.category h4 {
+        color: #0f0;
+    }
+    
+    .images {
+        width: 70%;
+        border-radius: 30%;
+        height: 150px;
+    }
+    
+    .rice,
+    .snacks {
+        padding-left: 16px;
+    }
+    
+    h4 {
+        font-size: 16px;
+        margin: 3%;
+    }
+    
+    .btn {
+        background-color: gold;
+        padding: 16px;
+        border: none;
+        border-radius: 8px;
+        margin-left: 45%;
+    }
+    /*END OF HOME*/
+    /*THE END*/
+    /*FIN*/
